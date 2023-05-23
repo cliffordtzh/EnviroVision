@@ -1,6 +1,7 @@
 # EnviroVision
 
 SUMMARY:
+
 Our team, EnviroVision, is proposing an innovative solution to reduce plastic waste and improve sustainability: a smart recycling bin system combined with a waste management analytics platform. The system uses computer vision and machine learning to sort recyclable and non-recyclable waste, while the platform provides real-time insights into waste disposal behavior and recommendations for optimizing waste management strategies.
 
 We believe that our solution has the potential to revolutionize the way that businesses and governments manage waste, reducing plastic usage and improving sustainability outcomes.
@@ -8,6 +9,7 @@ We believe that our solution has the potential to revolutionize the way that bus
 ---
 
 PAIN POINTS:
+
 According to National Environment Agency 2022 Waste Statistics and Overall Recycling Table, 944,000 tonnes of plastic waste disposed and only around 6% of it is recycled in Singapore (2022). In addition, current waste management and recycling practices are often
 inefficient and not designed to address waste segregation. 
 
@@ -25,6 +27,7 @@ inefficient and not designed to address waste segregation.
 ---
 
 TARGET INDUSTRY: 
+
 Our solution is targeted at businesses and governments that are looking to reduce their environmental footprint and improve sustainability outcomes. This includes companies in the retail, manufacturing, and hospitality industries, as well as local and national governments.
 
 1. Businesses: Our smart recycling bin system and waste management analytics platform provide businesses with a comprehensive waste management solution that can help them reduce their environmental impact and improve their sustainability credentials. Our solution can be customized to meet the specific needs of each business, providing real-time insights into waste disposal behavior and recommendations for optimizing waste management strategies.
@@ -34,6 +37,7 @@ Our solution is targeted at businesses and governments that are looking to reduc
 ---
 
 HOW IT WORKS:
+
 The smart recycling bins are equipped with sensors and cameras that capture images of the materials being thrown away. The computer vision technology analyzes the images to identify the type of waste material and categorize it as recyclable or non-recyclable.
 
 The computer vision system is trained using machine learning algorithms to recognize different types of materials, such as plastics, metals, glass, and paper. The more data the system collects, the better it becomes at identifying and sorting different materials.
@@ -50,6 +54,7 @@ The waste management analytics platform empowers organizations to make informed 
 
 ---
 PROJECT DEMO LINKS:
+
 COMPUTER VISION AI IMAGE CLASSIFICATION MODEL
 https://envirovision.streamlit.app/
 
