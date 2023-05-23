@@ -10,6 +10,8 @@ We believe that our solution has the potential to revolutionize the way that bus
 
 PAIN POINTS:
 
+There are barriers in Singapore’s drive towards zero waste. For instance, Singaporeans are still generally unaware when it comes to recycling. This lack of knowledge contributes to a lowered domestic recycling rate and more commonly, leads to the contamination of recycled goods. The NEA states that 40% of recycling placed in blue bins gets contaminated by non-recyclables such as food waste and hence, cannot be recycled.
+
 According to National Environment Agency 2022 Waste Statistics and Overall Recycling Table, 944,000 tonnes of plastic waste disposed and only around 6% of it is recycled in Singapore (2022). In addition, current waste management and recycling practices are often
 inefficient and not designed to address waste segregation. 
 
